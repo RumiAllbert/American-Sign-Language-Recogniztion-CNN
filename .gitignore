@@ -164,3 +164,4 @@ cython_debug/
 #.idea/
 images/test.zip
 images/test_data.zip
+images/test/
