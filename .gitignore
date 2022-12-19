@@ -32,6 +32,8 @@ MANIFEST
 *.manifest
 *.spec
 
+models/alexnet_asl_50_cnn.pth
+
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
